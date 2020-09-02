@@ -2,4 +2,4 @@
 # tasks file for .
 - name: display version
   debug:
-    msg: version 1.0
+    msg: version 2.0
