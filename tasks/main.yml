@@ -1,0 +1,5 @@
+---
+# tasks file for .
+- name: display version
+  debug:
+    msg: version 1.0
